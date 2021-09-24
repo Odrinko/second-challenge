@@ -40,7 +40,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/Odrinko/second-challenge)
-- Live Site URL: [Add live site URL here](https://odrinko.github.io/second-challenge/)
+- Live Site URL: [Add live site URL here](https://odrinko.github.io/second-challenge)
 
 ## My process
 
